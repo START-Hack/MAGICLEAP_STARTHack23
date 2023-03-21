@@ -10,7 +10,7 @@ To win this challenge, your application should be innovative, user-friendly, and
 see slides [here](/docs/Magic%20Leap%20Pitch%20StartHack%202023.pdf)
 
 ## <p align="center"> Deep Dive Slides: </p>
-see slides [here](/docs/Magic%20Leap%20Deep%20Dive%20StartHack2023.pdf)
+see slides [here](/docs/Magic%20Leap%20Deep%20Dive%20StartHack%202023.pdf)
 
 <p align="center"> Insert Deep Dive Slides here </p>
 
