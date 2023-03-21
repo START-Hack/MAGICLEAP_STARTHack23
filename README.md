@@ -8,8 +8,7 @@ To win this challenge, your application should be innovative, user-friendly, and
 
 ## <p align="center"> The Pitch: </p>
 
-<p align="center"> Insert Pitchdeck here </p>
-
+- 
 ## <p align="center"> Deep Dive Slides: </p>
 
 <p align="center"> Insert Deep Dive Slides here </p>
@@ -33,22 +32,22 @@ We provide two initial templates to start your development process:
 
 
 ## <p align="center"> Judging Criteria: </p>
-The application (.apk) must be completely runnable on the Magic Leap 2 device.
-Source control (Git)
-Application commits should appear "professional" and intentional
-Examples include https://cbea.ms/git-commit/ 
-Extraneous data should not be committed
-A proper gitignore should be used
-Is this a multi-user application (using ARCloud)?  (y/n)
-Is this application showing Magic Leap 2 technology capabilities? (1-10)
-Which APIs does it use?
-Examples: HandTracking, EyeTracking, SegmentedDimming, etc
-User Experience (1-10) 
-Is the application "easy" to use?
-Is the application intuitive?
-Is the design pleasing to the eye?
-Is there audio?
-Does the application achieve the stated intent and solve the cases?
+- The application (.apk) must be completely runnable on the Magic Leap 2 device.
+    - Source control (Git)
+    - Application commits should appear "professional" and intentional
+    - Examples include https://cbea.ms/git-commit/ 
+    - Extraneous data should not be committed
+    - A proper gitignore should be used
+- Is this a multi-user application (using ARCloud)?  (y/n)
+- Is this application showing Magic Leap 2 technology capabilities? (1-10)
+    - Which APIs does it use?
+    - Examples: HandTracking, EyeTracking, SegmentedDimming, etc
+- User Experience (1-10) 
+    - Is the application "easy" to use?
+    - Is the application intuitive?
+    - Is the design pleasing to the eye?
+    - Is there audio?
+- Does the application achieve the stated intent and solve the cases?
 
 
 
