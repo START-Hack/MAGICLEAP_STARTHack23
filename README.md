@@ -7,9 +7,10 @@ In this challenge you will have the opportunity to showcase your skills and crea
 To win this challenge, your application should be innovative, user-friendly, and demonstrate how AR can bring added value to the solution of the problem. We need to ensure that your application (.apk file) is functional, interactive, and provides a seamless user experience.
 
 ## <p align="center"> The Pitch: </p>
+see slides [here](/docs/Magic%20Leap%20Pitch%20StartHack%202023.pdf)
 
-- 
 ## <p align="center"> Deep Dive Slides: </p>
+see slides [here](/docs/Magic%20Leap%20Deep%20Dive%20StartHack2023.pdf)
 
 <p align="center"> Insert Deep Dive Slides here </p>
 
