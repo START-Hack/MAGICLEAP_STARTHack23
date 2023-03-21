@@ -24,7 +24,7 @@ Unity and Visual Studio/ Visual Studio Code or Jet Brains Rider for application 
 
 We provide two initial templates to start your development process:
 
-- ARCloud : If you want to provide a complete multi user experience, you can use the following template to start your project:  https://github.com/alco6/LeapBrush/tree/start_hack_2023 
+- ARCloud : If you want to provide a complete multi user experience, you can use the following template to start your project:  https://github.com/ghazen-ml/LeapBrush-StartX-2023-March/tree/shape_changer_demo 
  
 - Basic app:  Basic functionality making use of MRTK interactions in Magic Leap 2 device  https://github.magicleap.com/sabanqueri/MRTK-ML2-Template 
 
