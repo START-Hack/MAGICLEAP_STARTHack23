@@ -59,5 +59,5 @@ You can also ask any questions in this forum https://forum.magicleap.cloud/t/abo
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
-4 Apple watches  
+- 4 Apple watches  
 
